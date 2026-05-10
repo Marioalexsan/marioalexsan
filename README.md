@@ -1,6 +1,6 @@
-# Welcome to the hellscape known as my list of repositories
+# Welcome to the Hellscape known as my projects
 
-Here's an assorted list of things I've worked on:
+Here's an assorted list of things I've worked and / or contributed on and / or just find cool:
 
 ## ATLYSS
 
@@ -20,6 +20,7 @@ Here's an assorted list of things I've worked on:
 ## Casualties: Unknown
 
 - [ScavgameTranslationUtils](https://github.com/Marioalexsan/ScavgameTranslationUtils) - a tool for creating custom locales for Casualties: Unknown
+- [scavgame-locale](https://github.com/Orsoniks/scavgame-locale) - Romanian localization for the game, and currently acting as a maintainer for the repository (PS: check out the README if you would like to contribute to community translations!)
 
 ## Secrets of Grindea
 
