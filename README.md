@@ -32,10 +32,10 @@ Here's an assorted list of things I've worked and / or contributed on and / or j
 
 ## Miscellaneous
 
-- [WrenchMan](github.com/Marioalexsan/WrenchMan) - a Discord bot that allows analyzing log files from ATLYSS and other Unity games 
+- [WrenchMan](https://github.com/Marioalexsan/WrenchMan) - a Discord bot that allows analyzing log files from ATLYSS and other Unity games 
 - [BepInEx TemplateMod](https://github.com/Marioalexsan/AtlyssTemplateMod) - a template mod to get started with BepInEx 5 modding, oriented for Thunderstore uploads
 - [ProjectSilver](https://github.com/Marioalexsan/ProjectSilver) - an old top-down shooter written in C++ as an university project, where you fight waves of enemies in an arena, and fight a boss at the end
 - [QuickSilver](https://github.com/Marioalexsan/QuickSilver) - an old top-down multiplayer shooter written in Java as an university project; similar to Project Silver in nature
 - [UndertaleDecomp](https://github.com/kittibyte/UndertaleDecomp) - a decompilation of the latest version of UNDERTALE for the Xbox One ported to the latest Gamemaker Studio 2 Beta with many added toggleable enhancements
-- [RainWorldSaveEditor](github.com/Vultumast/RainWorldSaveEditor) - an unmaintained save editor for Rain World that used to target RainWorld + Downpour before The Watcher was released
+- [RainWorldSaveEditor](https://github.com/Vultumast/RainWorldSaveEditor) - an unmaintained save editor for Rain World that used to target RainWorld + Downpour before The Watcher was released
 - [dotnet-decompiler](https://github.com/Marioalexsan/dotnet-decompiler) - a very crappy "decompiler" for .NET assemblies written in C++ as an university project; very incomplete and lacking features
